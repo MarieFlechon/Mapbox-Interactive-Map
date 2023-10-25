@@ -1,4 +1,4 @@
-# Interactive Map Website with React and Mapbox
+# Interactive Map Website with React and Mapbox 🗺️
 
 This project is a web application that displays an interactive map powered by Mapbox. Users can explore various locations, zoom in and out, and interact with the map to view specific details. The website is built using React, a popular JavaScript library for building user interfaces, and Mapbox, a mapping platform that provides customizable maps and powerful location-based services.
 
@@ -30,10 +30,6 @@ To run this project locally, follow these steps:
 
 - Explore the map by dragging, zooming in/out, and clicking on markers to view more details about specific locations.
 - Customize the map appearance and behavior by modifying the React components and Mapbox styles.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
